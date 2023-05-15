@@ -16,9 +16,10 @@ SOURCES += main.cpp\
         mainwindow.cpp \
     kub.cpp
 
+
 HEADERS  += mainwindow.h \
     kub.h
 
 FORMS    += mainwindow.ui
 
-LIBS += -lopengl32
+
